@@ -1,0 +1,143 @@
+{
+    "OldHollywoodStars":[
+        {
+            "id":1,
+            "stage_name": "Audrey Hepburn",
+            "birth_name": "Audrey Kathleen Ruston",
+            "born": "4/05/1929",
+            "nationality": "Britanica",
+            "awards": "EGOT (Emmy, Grammy, Oscar and Tony winner",
+            "best_picture":"Breakfast at Tiffany's (1962)"
+            
+        },
+        {
+            "id":2,
+            "stage_name": "Ingrid Bergman",
+            "birth_name": "Ingrid Bergman",
+            "born": "29/08/1915",
+            "nationality": "Sueca",
+            "awards": "EOT (3 Oscars, 2 Emmys, 1 Tony)",
+            "best_picture":"Casablanca (1942)"
+            
+        },
+        {
+            "id":3,
+            "stage_name": "Katharine Hepburn",
+            "birth_name": "Katharine Houghton Hepburn",
+            "born": "12/05/1907",
+            "nationality": "Norte-americana",
+            "awards": "4 Oscars e 1 Emmy",
+            "best_picture":"The Lion in Winter (1968)"
+            
+        },
+        {
+            "id":4,
+            "stage_name": "Greta Garbo",
+            "birth_name": "Greta Lovisa Gustafsson",
+            "born": "18/09/1905",
+            "nationality": "Sueca",
+            "awards": "Oscar honorário",
+            "best_picture":"Anna Karenina (1935)" 
+            
+        },
+        {
+            "id":5,
+            "stage_name": "Elizabeth Taylor",
+            "birth_name": "Elizabeth Rosemond Taylor",
+            "born": "27/02/1932",
+            "nationality": "Britanica",
+            "awards": "3 Oscars",
+            "best_picture":"Cleopatra (1963)" 
+            
+        },
+        {
+            "id":6,
+            "stage_name": "Marilyn Monroe",
+            "birth_name": "Norma Jeane Mortenson",
+            "born": "01/06/1926",
+            "nationality": "Norte-americana",
+            "awards": "",
+            "best_picture":"Gentlemen Prefer Blondes (1953)" 
+            
+        }
+    ],
+    "MovieStars":[
+        {
+            "id":1,
+            "stage_name": "Saoirse Ronan",
+            "birth_name": "Saoirse Una Ronan",
+            "born": "12/04/1994",
+            "nationality": "Irlandesa",
+            "best_picture":"Lady Bird (2017)",
+            "best_TV_show": "Proof (2005)"
+            
+        },
+        {
+            "id":2,
+            "stage_name": "Lupita Nyong'o",
+            "birth_name": "Lupita Amondi Nyong'o",
+            "born": "01/03/1983",
+            "nationality": "Queniana/Mexicana",
+            "best_picture":"12 Years a Slave (2013)",
+            "best_TV_show": "none"
+            
+        },
+        {
+            "id":3,
+            "stage_name": "Fernanda Montenegro",
+            "birth_name": "Arlette Pinheiro Monteiro Torres",
+            "born": "16/10/1929",
+            "nationality": "Brasileira",
+            "best_picture":"Central do Brasil",
+            "best_TV_show": "Guerra dos Sexos (1983)"
+            
+        },
+        {
+            "id":4,
+            "stage_name": "Amy Adams",
+            "birth_name": "Amy Lou Adams",
+            "born": "20/08/1974",
+            "nationality": "Norte-americana",
+            "best_picture":"Arrival (2016)",
+            "best_TV_show": "Sharp Objects(2018)"
+            
+        }
+    ],
+    "DirectedBy":[
+        {
+            "id":1 ,
+            "name":"Jordan Peele",
+            "age":"42",
+            "master_piece":"Get Out (2017)",
+            "worst_job": "Nope(2022)"
+        },
+        {
+            "id":2 ,
+            "name":"Paul Thomas Anderson",
+            "age":"52",
+            "master_piece":"Phantom Thread (2017)",
+            "worst_job": "Hard Eight (1996)"
+        },
+        {
+            "id":3 ,
+            "name":"Greta Gerwig",
+            "age":"39",
+            "master_piece":"Lady Bird (2017)",
+            "worst_job": "Little Women (2019)"
+        },
+        {
+            "id":4 ,
+            "name":"Wes Anderson",
+            "age":"53",
+            "master_piece":"The Grand Budapest Hotel (2014)",
+            "worst_job": "Bottle Rocket (1994)"
+        },
+        {
+            "id":5 ,
+            "name":"Kleber Mendonça Filho",
+            "age":"53",
+            "master_piece":"Bacurau (2019)",
+            "worst_job": "Homem de Projeção (1992)"
+        }
+    ]
+}
